@@ -1,1 +1,1 @@
-# b3-example-instance-a
+# b3-example-instance-a-modules
